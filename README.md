@@ -1,4 +1,4 @@
-# resources
+# Resources
 
 ## CSS
 
@@ -13,3 +13,15 @@
 ### MDN Reference
 
 -  [Complete index page](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
+
+## Accessibility
+
+### Inclusive design
+
+-  [Inclusive design principles](https://inclusivedesignprinciples.org/)
+-  [Inclusive components](https://inclusive-components.design/)
+
+### Practitioners
+
+-  [Paciello group](https://www.paciellogroup.com/)
