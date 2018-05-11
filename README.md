@@ -25,3 +25,9 @@
 ### Practitioners
 
 -  [Paciello group](https://www.paciellogroup.com/)
+
+## Useful Tools
+
+### Placeholders
+
+-  [JSON Placeholder](https://jsonplaceholder.typicode.com/)
