@@ -21,6 +21,9 @@
 
 ## Accessibility
 
+### WCAG
+- [WCAG Checklist](https://www.wuhcag.com/wcag-checklist/)
+
 ### Inclusive design
 
 -  [Inclusive design principles](https://inclusivedesignprinciples.org/)
