@@ -38,3 +38,7 @@
 ### Placeholders
 
 -  [JSON Placeholder](https://jsonplaceholder.typicode.com/)
+
+## UX
+
+-  [Laws of UX](https://lawsofux.com/)
