@@ -23,6 +23,7 @@
 
 ### WCAG
 - [WCAG Checklist](https://www.wuhcag.com/wcag-checklist/)
+- [About WCAG 2.1](https://userinterfacing.com/what-you-need-to-know-about-wcag-21/)
 
 ### Inclusive design
 
