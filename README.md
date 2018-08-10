@@ -37,6 +37,10 @@
 ## HTML
 
 -  [HTML head elements](https://gethead.info/)
+
+## Javascript
+
+-  [ES6 Overview in 350 Bullet Points](https://ponyfoo.com/articles/es6)
 ## Useful Tools
 
 ### Placeholders
