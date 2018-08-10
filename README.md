@@ -34,6 +34,9 @@
 
 -  [Paciello group](https://www.paciellogroup.com/)
 
+## HTML
+
+-  [HTML head elements](https://gethead.info/)
 ## Useful Tools
 
 ### Placeholders
