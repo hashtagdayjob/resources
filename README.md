@@ -9,6 +9,7 @@
 #### Highlights
 -  [Complete guide to flexbox on CSS Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 -  [Complete guide to grid on CSS Tricks](https://css-tricks.com/snippets/css/complete-guide-grid/)
+-  [Styling progress bars](https://css-tricks.com/html5-progress-element/)
 
 ### MDN Reference
 
