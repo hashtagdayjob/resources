@@ -47,6 +47,15 @@
 ### Placeholders
 
 -  [JSON Placeholder](https://jsonplaceholder.typicode.com/)
+-  [Place Kitten](http://placekitten.com/)
+-  [Fill Murray](http://www.fillmurray.com/)
+-  [Steven Segallery](https://www.stevensegallery.com/)
+-  [Place Cage](https://www.placecage.com/)
+
+### APIs
+
+-  [Marvel](https://developer.marvel.com/)
+-  [Star Wars](https://www.swapi.co/)
 
 ## UX
 
