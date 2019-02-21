@@ -60,3 +60,11 @@
 ## UX
 
 -  [Laws of UX](https://lawsofux.com/)
+
+## Funnies & Writing
+
+-  [7XX status codes](https://github.com/joho/7XX-rfc)
+-  [HTTP Status Cats](https://http.cat/)
+-  [HTTP Status Dogs](https://httpstatusdogs.com/)
+-  [Execution in the Kingdom of Nouns](http://steve-yegge.blogspot.com/2006/03/execution-in-kingdom-of-nouns.html)
+-  [Programming Sucks](https://www.stilldrinking.org/programming-sucks)
