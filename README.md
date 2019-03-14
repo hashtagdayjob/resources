@@ -56,6 +56,7 @@
 
 -  [Marvel](https://developer.marvel.com/)
 -  [Star Wars](https://www.swapi.co/)
+-  [Public APIs](https://public-apis.xyz/)
 
 ## UX
 
