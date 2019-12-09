@@ -48,6 +48,12 @@
 ## Javascript
 
 -  [ES6 Overview in 350 Bullet Points](https://ponyfoo.com/articles/es6)
+
+## Fonts
+
+-  [Variable Fonts](https://v-fonts.com/)
+
+
 ## Useful Tools
 
 ### Placeholders
