@@ -53,8 +53,16 @@
 
 -  [Variable Fonts](https://v-fonts.com/)
 
+## Icons
+
+-  [Feather Icons](https://feathericons.com/)
+-  [The Noun Project](https://thenounproject.com/)
 
 ## Useful Tools
+
+### CSS Generators
+
+-  [Shadows](https://brumm.af/shadows)
 
 ### Placeholders
 
