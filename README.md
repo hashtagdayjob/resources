@@ -36,9 +36,13 @@
 
 -  [Paciello group](https://www.paciellogroup.com/)
 
-### INformation
+### Information
 
--  [UK Home oFfice accessibility posters](https://ukhomeoffice.github.io/accessibility-posters/)
+-  [UK Home Office accessibility posters](https://ukhomeoffice.github.io/accessibility-posters/)
+
+### Tools
+-  [Axe Chrome dev tools extension](https://www.deque.com/axe/)
+-  [Khan Academy Tota11y toolmark](https://khan.github.io/tota11y/)
 
 
 ## HTML
