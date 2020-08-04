@@ -85,6 +85,10 @@
 
 -  [Addy Osmani Pupetter recipes](https://addyosmani.com/blog/puppeteer-recipes/)
 
+### CLIs
+
+-  [SVGr](https://react-svgr.com/docs/cli/)
+
 ## UX
 
 -  [Laws of UX](https://lawsofux.com/)
