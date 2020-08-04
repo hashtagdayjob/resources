@@ -81,6 +81,10 @@
 -  [Star Wars](https://www.swapi.co/)
 -  [Public APIs](https://public-apis.xyz/)
 
+### Performance
+
+-  [Addy Osmani Pupetter recipes](https://addyosmani.com/blog/puppeteer-recipes/)
+
 ## UX
 
 -  [Laws of UX](https://lawsofux.com/)
