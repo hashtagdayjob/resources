@@ -10,6 +10,7 @@
 -  [Complete guide to grid on CSS Tricks](https://css-tricks.com/snippets/css/complete-guide-grid/)
 -  [Styling progress bars](https://css-tricks.com/html5-progress-element/)
 -  [Proper Numbers](https://css-tricks.com/almanac/properties/f/font-variant-numeric/) 
+-  [Variable Google Fonts Guide](https://css-tricks.com/getting-the-most-out-of-variable-fonts-on-google-fonts/)
 
 ### MDN Reference
 
