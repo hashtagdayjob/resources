@@ -19,6 +19,9 @@
 
 -  [Grid by Example](https://gridbyexample.com/examples/)
 
+### Others
+
+-  [What Does % Mean?](https://wattenberger.com/blog/css-percents)
 
 ## Accessibility
 
