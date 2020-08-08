@@ -104,3 +104,7 @@
 -  [HTTP Status Dogs](https://httpstatusdogs.com/)
 -  [Execution in the Kingdom of Nouns](http://steve-yegge.blogspot.com/2006/03/execution-in-kingdom-of-nouns.html)
 -  [Programming Sucks](https://www.stilldrinking.org/programming-sucks)
+
+## History
+
+-  [The Web, Part 1](https://css-tricks.com/chapter-1-birth/)
