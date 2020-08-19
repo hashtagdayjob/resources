@@ -88,6 +88,7 @@
 ### Performance
 
 -  [Addy Osmani Pupetter recipes](https://addyosmani.com/blog/puppeteer-recipes/)
+-  [Performance Analysis Tools for Front End Development](https://blog.bitsrc.io/performance-analysis-tools-for-front-end-development-a7b3c1488876)
 
 ### CLIs
 
