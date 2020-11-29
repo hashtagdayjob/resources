@@ -13,6 +13,7 @@
 -  [Proper Numbers](https://css-tricks.com/almanac/properties/f/font-variant-numeric/) 
 -  [Variable Google Fonts Guide](https://css-tricks.com/getting-the-most-out-of-variable-fonts-on-google-fonts/)
 -  [Practical CSS Scroll Snapping](https://css-tricks.com/practical-css-scroll-snapping/)
+-  [Web Components](https://css-tricks.com/our-best-posts-on-web-components/)
 
 ### MDN Reference
 
